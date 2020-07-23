@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # GIF-BOT
 Bot for twitch chat that retrieves gifs based on key words.
 
@@ -8,5 +7,3 @@ In order for this to work fully, you are required to have Streamlabs Chatbot ins
 https://www.youtube.com/watch?v=VvFV81oZh6Q&
 
 
-=======
->>>>>>> fix
